@@ -17,8 +17,9 @@ O desafio propõe:
 
 - [Visualizar o projeto no Figma](https://www.figma.com/design/QiUM04VH4cMEgorcLxZOsY/Medium-fidelity-wireframe?node-id=0-1&t=CSpGp0ep4HqVngvS-1)
 - Ou confira a imagem do wireframe abaixo:
+![Wireframe Média Fidelidade](https://github.com/user-attachments/assets/619fc543-ccbe-4fc1-9f31-846634247df8)
 
-![Wireframe Média Fidelidade](image.png)
+
 
 ---
 
